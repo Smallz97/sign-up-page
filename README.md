@@ -12,7 +12,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,22 +31,21 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-GR8pW_JQBE)
-- Live Site URL: [Add live site URL here](https://smallz97.github.io/sign-up-page/)
+- Solution URL: [Challenge Solution](https://https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-GR8pW_JQBE)
+- Live Site URL: [View Live Site](https://smallz97.github.io/sign-up-page/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS
 - Mobile-first workflow
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#Customized_error_messages) - This helped me in understanding client side form valiation using both built-in and custom form validation methods. And the use of Javascript in controlling the actions and look of native error messages, and implementing a custom error message.
+- [MDN - Client-Side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#Customized_error_messages) - This helped me in understanding client side form valiation using both built-in and custom form validation methods. And the use of Javascript in controlling the actions and look of native error messages, and implementing a custom error message.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Smallz97)
+- Frontend Mentor - [@Smallz97](https://www.frontendmentor.io/profile/Smallz97)
