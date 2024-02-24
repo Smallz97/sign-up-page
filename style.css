@@ -157,7 +157,6 @@ button {
     margin: 0;
     display: flex;
     height: 100vh;
-    /* padding: 0 5rem; */
     align-items: center;
     justify-content: center;
   }
@@ -165,8 +164,9 @@ button {
   .text-container {
     margin: 0;
     width: 32.8125rem;
-    height: 13.7525rem;
     text-align: start;
+    height: 13.7525rem;
+    margin-right: 2.81rem;
   }
 
   .text-container h1 {
