@@ -44,7 +44,7 @@ main {
   margin-bottom: 3.5rem;
 }
 
-.text-container h2 {
+.text-container h1 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
   line-height: 2.25rem;
@@ -157,19 +157,19 @@ button {
     margin: 0;
     display: flex;
     height: 100vh;
-    padding: 0 5rem;
+    /* padding: 0 5rem; */
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .text-container {
     margin: 0;
     width: 32.8125rem;
-    height: 8.1875rem;
+    height: 13.7525rem;
     text-align: start;
   }
 
-  .text-container h2 {
+  .text-container h1 {
     font-size: 3.125rem;
     line-height: 3.4375rem;
     letter-spacing: -0.03256rem;
