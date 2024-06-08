@@ -92,7 +92,7 @@ form {
   position: relative;
 }
 
-.form-input {
+.input-field {
   width: 100%;
   position: relative;
   min-height: 3.5rem;
@@ -102,7 +102,7 @@ form {
   border: 1px solid #dedede;
 }
 
-.form-input:focus {
+.input-field:focus {
   border-color: var(--purple);
 }
 
@@ -198,7 +198,7 @@ button {
     padding: 2.5rem;
   }
 
-  .form-input {
+  .input-field {
     padding-left: 2rem;
     margin-bottom: 1.25rem;
   }

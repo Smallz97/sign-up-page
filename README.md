@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Challenge Solution](https://https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-GR8pW_JQBE)
-- Live Site URL: [Live Site](https://smallz97.github.io/sign-up-page/)
+- Solution URL: [Challenge Submission](https://https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-GR8pW_JQBE)
+- Live Site URL: [Sign-up Page](https://smallz97.github.io/sign-up-page/)
 
 ## My process
 
